@@ -2,9 +2,9 @@
 
 # to check the speed of the algorithm
 
-'''if __name__=='__main__':
-    from timeit import Timer
-     t = Timer("test()", "from __main__ import test")
+if __name__=='__main__': <br />
+    from timeit import Timer <br />
+     t = Timer("test()", "from __main__ import test") <br />
      print t.timeit()'''
     
 # to check the time complexity of the algorithm
