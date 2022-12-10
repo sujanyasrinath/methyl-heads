@@ -2,14 +2,14 @@
 
 # to check the speed of the algorithm
 
-#if __name__=='__main__':
- #   from timeit import Timer
-  #  t = Timer("test()", "from __main__ import test")
-   # print t.timeit()
+'''if __name__=='__main__':
+    from timeit import Timer
+     t = Timer("test()", "from __main__ import test")
+     print t.timeit()'''
     
 # to check the time complexity of the algorithm
 
-#you can determine the time complexity by analyzing the program’s statements
+# you can determine the time complexity by analyzing the program’s statements
 
 Big O notation is a framework to analyze and compare algorithms.
 Amount of work the CPU has to do (time complexity) as the input size grows (towards infinity).
